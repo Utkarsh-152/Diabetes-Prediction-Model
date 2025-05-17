@@ -8,3 +8,4 @@ scikit-learn
 imblearn
 xgboost
 fastapi
+uvicorn 
