@@ -9,3 +9,4 @@ imblearn
 xgboost
 fastapi
 uvicorn 
+jinja2
