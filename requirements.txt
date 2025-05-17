@@ -10,3 +10,4 @@ xgboost
 fastapi
 uvicorn 
 jinja2
+aiofiles
