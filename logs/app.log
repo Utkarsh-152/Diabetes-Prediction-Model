@@ -1,2 +1,62 @@
-=== New Session Started at 2025-05-17 14:53:42 ===
-[ 2025-05-17 14:53:47,490 ] 9 root - INFO - Data Ingestion libraries imported successfully
+=== New Session Started at 2025-05-17 17:37:53 ===
+[ 2025-05-17 17:37:53,551 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:37:53,909 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:37:54,274 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:37:54,631 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:37:54,994 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:37:55,355 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:37:55,713 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:37:56,072 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:37:56,426 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:37:56,441 ] 83 uvicorn.error - INFO - Started server process [14832]
+[ 2025-05-17 17:37:56,445 ] 48 uvicorn.error - INFO - Waiting for application startup.
+[ 2025-05-17 17:37:56,447 ] 62 uvicorn.error - INFO - Application startup complete.
+[ 2025-05-17 17:37:56,784 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:37:57,143 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:37:57,502 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:37:57,859 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:37:58,217 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:37:58,576 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:37:58,936 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:37:59,292 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:37:59,653 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:00,012 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:00,371 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:00,731 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:01,092 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:01,451 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:01,808 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:02,167 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:02,524 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:02,890 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:03,250 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:03,609 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:03,974 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:04,332 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:04,694 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:05,056 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:05,414 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:05,772 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:06,128 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:06,493 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:06,848 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:07,203 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:07,558 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:07,917 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:08,277 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:08,637 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:08,993 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:09,349 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:09,705 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:10,066 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:10,425 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:10,783 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:11,148 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:11,512 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:11,871 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:12,231 ] 308 watchfiles.main - INFO - 1 change detected
+[ 2025-05-17 17:38:12,377 ] 263 uvicorn.error - INFO - Shutting down
+[ 2025-05-17 17:38:12,484 ] 67 uvicorn.error - INFO - Waiting for application shutdown.
+[ 2025-05-17 17:38:12,487 ] 76 uvicorn.error - INFO - Application shutdown complete.
+[ 2025-05-17 17:38:12,490 ] 93 uvicorn.error - INFO - Finished server process [14832]
+[ 2025-05-17 17:38:12,556 ] 116 uvicorn.error - INFO - Stopping reloader process [8220]
