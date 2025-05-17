@@ -1,0 +1,17 @@
+{
+    "precision": 0.9375,
+    "recall": 0.783406859257151,
+    "f1_score": 0.853554539111559,
+    "accuracy": 0.8654462568559014,
+    "confusion_matrix": [
+        [
+            6645,
+            367
+        ],
+        [
+            1522,
+            5505
+        ]
+    ],
+    "model_name": "XGBClassifier"
+}

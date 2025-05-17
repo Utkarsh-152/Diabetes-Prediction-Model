@@ -1,0 +1,10 @@
+pandas
+numpy 
+pymysql
+dotenv
+sqlalchemy
+mysql-connector-python
+scikit-learn
+imblearn
+xgboost
+fastapi
